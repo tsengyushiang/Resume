@@ -1,12 +1,12 @@
 # Tseng Yu Shiang 個人簡介
 
-## 碩士論文
+# 碩士論文
 
-## 作品集
+# 作品集
 
-### WebGL(Threejs)
+## WebGL(Threejs)
 
-#### 1. 自動化3D實境賞屋系統
+### 1. 自動化3D實境賞屋系統
 
 <details>
 <summary>
@@ -32,7 +32,7 @@
 | ![3](./images/anim-top2fp.gif)| ![4](./images/anim-top2orth.gif) |
 | ![5](./images/anim-orth2fp.gif)| ![6](./images/anim-orth2perspective.gif) |
 
-#### 2. 飯店場地配置系統
+### 2. 飯店場地配置系統
 
 <details>
 <summary>
@@ -60,9 +60,9 @@
 |輸出的貼圖及模型 方便人工修正||
 | ![1](./images/hotel360_obj.png)||
 
-### Cocos Creator
+## Cocos Creator
 
-#### 1. 卡牌遊戲前端
+### 1. 卡牌遊戲前端
 
 <details>
 <summary>
@@ -76,7 +76,7 @@
 | ![3](./images/card_game4.jpg) | ![4](./images/card_game1.jpg) |
 
 
-#### 2. 老虎機前端
+### 2. 老虎機前端
 
 <details>
 <summary>
@@ -93,9 +93,9 @@
 | ----------------- | -------------- | --------- |--------- |
 | ![1](./images/S129_Orientaldragon_Demo_Moment.jpg)| ![2](./images/S129_Orientaldragon_Demo_Moment2.jpg) |![3](./images/S129_Orientaldragon_Demo_Moment3.jpg) |![3](./images/S129_Orientaldragon_Demo_Moment4.jpg) |
 
-### Unity2D/3D
+## Unity2D/3D
 
-#### 1. 遊戲程式設計作業
+### 1. 遊戲程式設計作業
 - 迷宮遊戲
 
     <details>
@@ -157,7 +157,7 @@
     | ------------- | ------------- |
     | ![教學影片](./images/GP03_01.png)  | ![選單畫面](./images/GP03_02.png) |
 
-#### 2. 遊戲企劃與設計原理作業-Boooom
+### 2. 遊戲企劃與設計原理作業-Boooom
     
 <details>
 <summary>
@@ -167,7 +167,7 @@
 <ul>
 <li>主遊戲 :主要核心玩法是透過丟水球佔領地盤，實作上使用shader更改vertex color再套用簡單的模糊遮罩，達到染色地板的效果。</li>
 <li>控制器 : 開發使用unity3D遊戲引擎輸出webGL網頁，透過websocket傳輸簡單的上下左右、ready等資訊。</li>
-<ul>
+</ul>
 </details>
 
 |[介紹影片](https//www.youtube.com/watch?v=q7bf38KAHDw) |選單畫面|
@@ -176,7 +176,7 @@
 |遊玩畫面 | 等待畫面|
 | ![3](./images/Boooom04.png) | ![4](./images/Boooom05.png) |
 
-#### 3. 設計系合作專題-Looptopia
+### 3. 設計系合作專題-Looptopia
 
 <details>
 <summary>
@@ -194,9 +194,9 @@
 |重播2分鐘中所走的路徑 |所有歷史紀錄(走動動畫)|
 | ![3](./images/Looptopia03.jpg) | ![4](./images/Looptopia04.jpg) |
 
-### OpenGL
+## OpenGL
 
-#### 1. 基礎電腦圖學作業
+### 1. 基礎電腦圖學作業
 - 機器人
 
     <details>
@@ -243,9 +243,9 @@
     | ![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
 
 
-### 其他
+## 其他
 
-#### 1. 遊戲程式設計作業Unreal
+### 1. 遊戲程式設計作業Unreal
 - Unreal 第一人稱射擊遊戲
 
     <details>
@@ -264,7 +264,7 @@
     | ------------- | ------------- |
     | ![教學影片](./images/GP04_02.png)  | ![選單畫面](./images/GP04_01.png) |
 
-#### 2. IOS程式設計作業
+### 2. IOS程式設計作業
 - 2D橫向卷軸
 
     <details>
@@ -277,7 +277,7 @@
     | ------------- | ------------- |
     | ![教學影片](./images/IOS01.png)  | ![選單畫面](./images/IOS02.png) |
 
-#### 3. 軟體工程作業(Cocos Creator, Nodejs, MySQL)
+### 3. 軟體工程作業(Cocos Creator, Nodejs, MySQL)
 
 <details>
 <summary>
