@@ -1,21 +1,22 @@
-# Tseng Yu shiang 個人簡介
+# Tseng Yu shiang
 
-# Tseng Yu shiang 碩士論文
+## 個人簡介
+## 碩士論文
 
-# Tseng Yu shiang 作品集
+## 作品集
 
-## WebGL(Threejs)
+### WebGL(Threejs)
 
 - 自動化3D實境賞屋系統
 - 飯店場地配置系統
 - 3D線上展覽編輯器
 
-## Cocos Creator
+### Cocos Creator
 
 - 卡牌遊戲前端
 - 老虎機前端
 
-## Unity3D, Unity3D 2D
+### Unity2D/3D
 
 - 遊戲程式設計作業
     - 迷宮遊戲
@@ -27,7 +28,7 @@
 
 - 設計系合作專題 Looptopia
 
-## OpenGL
+### OpenGL
 
 - 基礎電腦圖學作業
     - 機器人
@@ -36,7 +37,7 @@
 
 - AzureKinect Viewer
 
-## 其他
+### 其他
 
 - IOS程式設計作業
     - 2D橫向卷軸
