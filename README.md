@@ -67,20 +67,21 @@
         | ------------- | ------------- |
         | ![教學影片](./images/GP03_01.png)  | ![選單畫面](./images/GP03_02.png) |
 
-- 遊戲企劃與設計原理作業
-    - Boooom
-        | [介紹影片](https//www.youtube.com/watch?v=q7bf38KAHDw)  | 選單畫面 |
-        | ------------- | ------------- |
-        | ![教學影片](./images/Boooom01.png)  | ![選單畫面](./images/Boooom03.png) |
-        | 遊玩畫面 | 等待畫面 |        
-        | ![遊玩畫面](./images/Boooom04.png) | ![等待畫面](./images/Boooom05.png) |
-        
-- 設計系合作專題 Looptopia
-    | 開始選單  | 被困住的2分鐘時間 |
+- 遊戲企劃與設計原理作業-Boooom
+
+    |[介紹影片](https//www.youtube.com/watch?v=q7bf38KAHDw) |選單畫面|
     | ------------- | ------------- |
-    | ![開始選單](./images/Looptopia01.jpg)  | ![被困住的2分鐘時間](./images/Looptopia02.jpg)  |
-    | 重播2分鐘中所走的路徑 | 所有歷史紀錄(走動動畫) |
-    | ![重播2分鐘中所走的路徑](./images/Looptopia03.jpg)  | ![所有歷史紀錄](./images/Looptopia04.jpg)  |
+    | ![1](./images/Boooom01.png)  | ![2](./images/Boooom03.png) |
+    |遊玩畫面 | 等待畫面|
+    | ![3](./images/Boooom04.png) | ![4](./images/Boooom05.png) |
+
+- 設計系合作專題-Looptopia
+
+    |開始選單 |被困住的2分鐘時間|
+    | ------------- | ------------- |
+    | ![1](./images/Looptopia01.jpg)  | ![2](./images/Looptopia02.jpg) |
+    |重播2分鐘中所走的路徑 |所有歷史紀錄(走動動畫)|
+    | ![3](./images/Looptopia03.jpg) | ![4](./images/Looptopia04.jpg) |
 
 ### OpenGL
 
