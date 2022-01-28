@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Tseng Yu shiang 個人簡介
 
-You can use the [editor on GitHub](https://github.com/tsengyushiang/Resume/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Tseng Yu shiang 碩士論文
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tseng Yu shiang 作品集
 
-### Markdown
+## WebGL(Threejs)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 自動化3D實境賞屋系統
+- 飯店場地配置系統
+- 3D線上展覽編輯器
 
-```markdown
-Syntax highlighted code block
+## Cocos Creator
 
-# Header 1
-## Header 2
-### Header 3
+- 卡牌遊戲前端
+- 老虎機前端
 
-- Bulleted
-- List
+## Unity3D, Unity3D 2D
 
-1. Numbered
-2. List
+- 遊戲程式設計作業
+    - 迷宮遊戲
+    - 多人連線2D遊戲
+    - Andriod 2D遊戲
 
-**Bold** and _Italic_ and `Code` text
+- 遊戲企劃與設計原理作業
+    - Boooom
 
-[Link](url) and ![Image](src)
-```
+- 設計系合作專題 Looptopia
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## OpenGL
 
-### Jekyll Themes
+- 基礎電腦圖學作業
+    - 機器人
+    - Mesh貼圖
+    - shader特效
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tsengyushiang/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- AzureKinect Viewer
 
-### Support or Contact
+## 其他
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- IOS程式設計作業
+    - 2D橫向卷軸
+
+- 軟體工程作業(Cocos Creator, Nodejs, MySQL)
+    - T-page
