@@ -243,7 +243,7 @@
     | ![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
 
 
-## 其他
+## Others
 
 ### 9. 遊戲程式設計作業Unreal
 - Unreal 第一人稱射擊遊戲
