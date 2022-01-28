@@ -104,9 +104,14 @@
 
     - shader特效
 
-        | Toon  |Swirl distortion|CRT|Chromatic Aberration||特效貼圖||
-        | ----------------- | -------------- | --------- | --------- | --------- | --------- | --------- |
-        | ![1](./images/CG03_shader01.png)|![2](./images/CG03_shader02.png) |![3](./images/CG03_shader03.jpg) |![4](./images/CG03_shader04.png) |![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
+        | Toon  |Swirl distortion|CRT|Chromatic Aberration|
+        | ----------------- | -------------- | --------- | --------- |
+        | ![1](./images/CG03_shader01.png)|![2](./images/CG03_shader02.png) |![3](./images/CG03_shader03.jpg) |![4](./images/CG03_shader04.png) |
+        
+        | 特效貼圖 |||
+        | ----------------- | -------------- | --------- |
+        | ![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
+
 
 ### 其他
 
