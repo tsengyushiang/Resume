@@ -1,16 +1,16 @@
 # Tseng Yu Shiang 個人簡介
 
-# A. 碩士論文
+# 1. 碩士論文
 
-# B. 作品集
+# 2. 作品集
 
 ## WebGL(Threejs)
 
-### 1. 自動化3D實境賞屋系統
+**線上3D實境賞屋系統**
 
 <details>
 <summary>
-    將拍攝環景相片/影片，透過OpenVSLAM算每個拍攝點的對應位置，再利用deep learning方式預測出房間模型與門窗位置來產生3D模型，最後對齊不同拍攝點造成門窗的誤差後，主要負責部分為利用Threejs 繪製出3D賞屋介面，在各階段所處理的資訊分別為...
+    將拍攝環景相片/影片，透過OpenVSLAM算每個拍攝點的對應位置，再利用deep learning方式預測出房間模型與門窗位置來產生3D模型，最後對齊不同拍攝點造成門窗的誤差後，主要負責部分為利用Threejs 繪製出線上3D賞屋介面，在各階段所處理的資訊分別為...
 </summary>
 <ul>
 
@@ -32,7 +32,7 @@
 | ![3](./images/anim-top2fp.gif)| ![4](./images/anim-top2orth.gif) |
 | ![5](./images/anim-orth2fp.gif)| ![6](./images/anim-orth2perspective.gif) |
 
-### 2. 飯店場地配置系統
+**飯店場地配置系統**
 
 <details>
 <summary>
@@ -62,7 +62,7 @@
 
 ## Cocos Creator
 
-### 3. 卡牌遊戲前端
+**卡牌遊戲前端**
 
 <details>
 <summary>
@@ -76,11 +76,11 @@
 | ![3](./images/card_game4.jpg) | ![4](./images/card_game1.jpg) |
 
 
-### 4. 老虎機前端
+**老虎機前端**
 
 <details>
 <summary>
-    使用Cocos Creator 製作老虎機前端，包含動畫、音效、畫面、封包接送等等，並使用合作公司所提供的框架, 以利後期維護，最終階段使用mantis進行QA。
+    使用Cocos Creator 製作老虎機前端，包含動畫、音效、畫面、封包接送等等，根據合作公司的文件使用現有TypeScript程式框架, 最終階段透過mantis進行QA測試。
 </summary>
 </details>
 
@@ -95,7 +95,7 @@
 
 ## Unity2D/3D
 
-### 5. 遊戲程式設計作業
+**遊戲程式設計作業**
 - 迷宮遊戲
 
     <details>
@@ -157,7 +157,7 @@
     | ------------- | ------------- |
     | ![教學影片](./images/GP03_01.png)  | ![選單畫面](./images/GP03_02.png) |
 
-### 6. 遊戲企劃與設計原理作業-Boooom
+**遊戲企劃與設計原理作業-Boooom**
     
 <details>
 <summary>
@@ -176,7 +176,7 @@
 |遊玩畫面 | 等待畫面|
 | ![3](./images/Boooom04.png) | ![4](./images/Boooom05.png) |
 
-### 7. 設計系合作專題-Looptopia
+**設計系合作專題-Looptopia**
 
 <details>
 <summary>
@@ -196,7 +196,23 @@
 
 ## OpenGL
 
-### 8. 基礎電腦圖學作業
+**RGBD Camera viewer**
+
+<details>
+<summary>
+    使用OpenGL搭配imgui 2D介面, 同時繪製多台 RGBD Camera的影像、點雲, 並利用 cuda 加速效能...
+</summary>
+    <ul>
+    <li>RGBD Camera API 使用 : Azure Kinect, Realsense</li>
+    <li>多台相機對齊 : 手動拖曳, OpenCV Aruco Marker 取得3D feature points </li>
+    </ul>
+</details>
+
+| 介面 |多台相機點雲|
+| ----------------- | -------------- |
+| ![1](./images/azruekinect-viewer-interface.png)|![2](./images/azruekinect-viewer-pointcloud.gif) |
+
+**基礎電腦圖學作業**
 - 機器人
 
     <details>
@@ -243,41 +259,38 @@
     | ![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
 
 
-## Others
+## Unreal, IOS, Nodejs
 
-### 9. 遊戲程式設計作業Unreal
-- Unreal 第一人稱射擊遊戲
+**Unreal 第一人稱射擊遊戲**
+<details>
+<summary>
+    使用Unreal遊戲引擎開發的第一人稱射擊遊戲，通過發射子彈來擊退敵人，實做部分使用粒子系統、UI、物理、AI......等功能...
+</summary>
+<ul>
+<li>粒子系統: 敵人生成特效、雷射槍。</li>
+<li>物理: 子彈擊飛敵人。</li>
+<li>UI : 開始、結束、暫停按鈕。</li>
+<li>AI : 敵人自動追擊玩家。</li>
+</ul>
+</details>
 
-    <details>
-    <summary>
-        使用Unreal遊戲引擎開發的第一人稱射擊遊戲，通過發射子彈來擊退敵人，實做部分使用粒子系統、UI、物理、AI......等功能...
-    </summary>
-    <ul>
-    <li>粒子系統: 敵人生成特效、雷射槍。</li>
-    <li>物理: 子彈擊飛敵人。</li>
-    <li>UI : 開始、結束、暫停按鈕。</li>
-    <li>AI : 敵人自動追擊玩家。</li>
-    </ul>
-    </details>
+| 選單畫面 | 遊玩畫面 |
+| ------------- | ------------- |
+| ![教學影片](./images/GP04_02.png)  | ![選單畫面](./images/GP04_01.png) |
 
-    | 選單畫面 | 遊玩畫面 |
-    | ------------- | ------------- |
-    | ![教學影片](./images/GP04_02.png)  | ![選單畫面](./images/GP04_01.png) |
+**IOS 2D橫向卷軸**
 
-### 10. IOS程式設計作業
-- 2D橫向卷軸
+<details>
+<summary>
+    使用IOS Game框架中的 Sprite Kit遊戲開發的殺殭屍遊戲，通過發射子彈來避免殭屍前進，實做使用連續圖製作殭屍及人物動畫，背景街道則用兩組重複圖連續移動達到無限循環的效果。
+</summary>
+</details>
 
-    <details>
-    <summary>
-        使用IOS Game框架中的 Sprite Kit遊戲開發的殺殭屍遊戲，通過發射子彈來避免殭屍前進，實做使用連續圖製作殭屍及人物動畫，背景街道則用兩組重複圖連續移動達到無限循環的效果。
-    </summary>
-    </details>
+| 遊玩畫面 | 結算畫面 |
+| ------------- | ------------- |
+| ![教學影片](./images/IOS01.png)  | ![選單畫面](./images/IOS02.png) |
 
-    | 遊玩畫面 | 結算畫面 |
-    | ------------- | ------------- |
-    | ![教學影片](./images/IOS01.png)  | ![選單畫面](./images/IOS02.png) |
-
-### 11. 軟體工程作業(Cocos Creator, Nodejs, MySQL)
+**留言平台(Cocos Creator, Nodejs, MySQL)**
 
 <details>
 <summary>
@@ -294,11 +307,10 @@
 <br>實做工具:
 <ul> 
 <li>前端 :  Cocos Creator</li>
-<li>後端 :  Nodejs</li>
+<li>後端 :  Nodejs express套件</li>
 <li>資料庫 : MySQL</li>
 </ul>
 </details>
-
 
 | 登入頁面 | 管理者頁面 | 文章頁面 | 家族頁面 |
 | ----------------- | -------------- | --------- | --------- |
