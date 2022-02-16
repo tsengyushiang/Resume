@@ -1,9 +1,4 @@
-# Tseng Yu Shiang 個人簡介
-
-# 1. 碩士論文
-
-# 2. 作品集
-
+# Tseng Yu Shiang 作品集
 ## WebGL(Threejs)
 
 **線上3D實境賞屋系統**
