@@ -5,20 +5,7 @@
 
 <details>
 <summary>
-    將拍攝環景相片/影片，透過OpenVSLAM算每個拍攝點的對應位置，再利用deep learning方式預測出房間模型與門窗位置來產生3D模型，最後對齊不同拍攝點造成門窗的誤差後，主要負責部分為利用Threejs 繪製出線上3D賞屋介面，在各階段所處理的資訊分別為...
-</summary>
-<ul>
-
-<li>Preprocessing : 產生資訊讓之後能更有效率地編輯。</li>
-<ul>
-<li>DuLa-Net : 用全景圖預測空間模型。</li>
-<li>ResNet : 預測房間的種類。</li>
-<li>Detect Net : 預測門、窗位子。</li>
-</ul>
-<li>Annotator : 根據預測的結果，提供介面做人工為調門、窗、牆壁的位置。</li>
-<li>SingleRoomIntegrator : 找出同房中所有拍攝點相對位置、旋轉角度。</li>
-<li>MultiRoomIntegrator : 排好房間的位置，並提供操作介面做細部的調整。</li>
-</ul>
+    利用Threejs 繪製出線上3D賞屋動畫, 並利用ReactJs製作簡易UI。
 </details>
 
 | 動畫 ||
@@ -31,20 +18,8 @@
 
 <details>
 <summary>
-    將環景圖及場地平面圖通過描框、調整牆壁位置、調整貼圖角度、輸入實際場地大小、放置物品等階段，製造出可於場地內以第一人稱自由走動的網頁...
+    將環景圖及場地平面圖通過描框、調整牆壁位置、調整貼圖角度、輸入實際場地大小、放置物品等階段，製造出可於場地內以第一人稱自由走動的網頁
 </summary>
-<ul>
-空間製作 : 
-<li>描平面圖輪廓 : 描平面圖取得底面資訊。</li>
-<li>設定場地大小 : 根據輸入場地度產生所有點面的資訊。</li>
-<li>設定貼圖方向 : 利用fragmentShader改變全景貼圖方向。</li>
-<li>輸出模型與貼圖 : 更改 vertexShader 頂點位置重新繪製貼圖。</li>
-桌椅擺設 : 
-<li>桌椅擺設 : 繪製數個fbx model，使用 GPU instancing 提升效能。</li>
-<li>舞台設置 : 輸入長寬高產生舞台並貼上貼圖。</li>
-<li>繪製地毯 : 畫線並設置寬度產生地毯。</li>
-<li>光線調整 : 提供常見色溫選單，供光線調整。</li>
-</ul>
 </details>
 
 |空間製作流程||
@@ -79,7 +54,7 @@
 </summary>
 </details>
 
-|127-HauntedMansion ||
+|S127-HauntedMansion ||
 | ------------- | ------------- |
 | ![1](./images/127-HauntedMansion03.jpg)  | ![2](./images/127-HauntedMansion02.jpg) |
 | ![3](./images/127-HauntedMansion01.jpg) | ![4](./images/127-HauntedMansion04.jpg) |
@@ -162,10 +137,11 @@
 <ul>
 <li>主遊戲 :主要核心玩法是透過丟水球佔領地盤，實作上使用shader更改vertex color再套用簡單的模糊遮罩，達到染色地板的效果。</li>
 <li>控制器 : 開發使用unity3D遊戲引擎輸出webGL網頁，透過websocket傳輸簡單的上下左右、ready等資訊。</li>
+<li><a href="https://www.youtube.com/watch?v=q7bf38KAHDw">遊戲介紹影片</a></li>
 </ul>
 </details>
 
-|[介紹影片](https//www.youtube.com/watch?v=q7bf38KAHDw) |選單畫面|
+|介紹影片 |選單畫面|
 | ------------- | ------------- |
 | ![1](./images/Boooom01.png)  | ![2](./images/Boooom03.png) |
 |遊玩畫面 | 等待畫面|
@@ -289,7 +265,7 @@
 
 <details>
 <summary>
-    一個以五人小組根據軟體工程方法做的留言平台，過程包含文件撰寫、開發程式、測試除錯到最後DEMO...
+    一個以五人小組根據MVC架構做的留言平台，過程包含文件撰寫、開發程式、測試除錯到最後DEMO...
 </summary>
 功能 :
 <ul>        
@@ -302,7 +278,7 @@
 <br>實做工具:
 <ul> 
 <li>前端 :  Cocos Creator</li>
-<li>後端 :  Nodejs express套件</li>
+<li>後端 :  Nodejs express,socket.io</li>
 <li>資料庫 : MySQL</li>
 </ul>
 </details>
