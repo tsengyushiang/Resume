@@ -6,6 +6,7 @@
 <details>
 <summary>
     利用Threejs 繪製出線上3D賞屋動畫, 並利用ReactJs製作簡易UI。
+</summary>
 </details>
 
 | 動畫 ||
