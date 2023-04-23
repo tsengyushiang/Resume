@@ -1,4 +1,3 @@
-# Tseng Yu Shiang 作品集
 ## WebGL(Threejs)
 
 **線上3D實境賞屋系統**
@@ -128,7 +127,7 @@
     | ------------- | ------------- |
     | ![教學影片](./images/GP03_01.png)  | ![選單畫面](./images/GP03_02.png) |
 
-**遊戲企劃與設計原理作業-Boooom**
+**Unity 3D多人遊戲-Boooom**
     
 <details>
 <summary>
@@ -148,7 +147,7 @@
 |遊玩畫面 | 等待畫面|
 | ![3](./images/Boooom04.png) | ![4](./images/Boooom05.png) |
 
-**設計系合作專題-Looptopia**
+**合作專題-Looptopia**
 
 <details>
 <summary>
@@ -231,7 +230,7 @@
     | ![5](./images/CG03_shader05.png) |![6](./images/CG03_shader06.png) |![6](./images/CG03_shader07.png) |
 
 
-## Unreal, IOS, Nodejs
+## Unreal
 
 **Unreal 第一人稱射擊遊戲**
 <details>
@@ -250,6 +249,8 @@
 | ------------- | ------------- |
 | ![教學影片](./images/GP04_02.png)  | ![選單畫面](./images/GP04_01.png) |
 
+## IOS
+
 **IOS 2D橫向卷軸**
 
 <details>
@@ -261,6 +262,8 @@
 | 遊玩畫面 | 結算畫面 |
 | ------------- | ------------- |
 | ![教學影片](./images/IOS01.png)  | ![選單畫面](./images/IOS02.png) |
+
+## Nodejs
 
 **留言平台(Cocos Creator, Nodejs, MySQL)**
 
